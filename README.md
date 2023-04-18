@@ -18,7 +18,7 @@ So this is a common scenario and making an API call for every character typed ma
 
 So to handle this scenario, we can use the debouncing functionality.
 
-Let's first understand what is debouncing.
+## Let's first understand what is debouncing.
 
 Debouncing allows us to call a function after a certain amount of time has passed. This is very useful to avoid unnecessary API calls to the server If you're making an API call for every character typed in the input text.
 
